@@ -1,0 +1,1 @@
+To turn the JSON data into a CSV, make a new folder and put all of the JSON files in it. Change the `raw_data_path` in json_to_csv.py to the path of the folder and run the python file. It will make a new csv file in that folder with the data.

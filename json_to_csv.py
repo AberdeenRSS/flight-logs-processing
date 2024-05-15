@@ -5,7 +5,7 @@ import csv
 # Should have numbered json files inside it
 raw_data_path = "flight4may2024"
 
-output_file_path = raw_data_path + "/" + "output.csv"
+output_file_path = raw_data_path + "/" + raw_data_path + "_output.csv"
 
 file_data = []
 
