@@ -3,7 +3,7 @@ import json
 import csv
 # Filepath of Raw Data Folder
 # Should have numbered json files inside it
-raw_data_path = "flight4may2024"
+raw_data_path = "flight4maycorrect"
 
 output_file_path = raw_data_path + "/" + raw_data_path + "_output.csv"
 
